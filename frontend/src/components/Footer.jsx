@@ -25,7 +25,7 @@ export default function Footer() {
     <footer className="footer">
         <p>&copy; 2025 Youth Empowerment Project. All rights reserved.</p>
         <p>
-            <a href="#home">Home</a> | <a href="#about">About</a> | <a href="#contact">Contact</a>
+            Arun panthi Pramod Adhikari Samriddh Adhikari Sampanna Adhikari
         </p>
     </footer>
 }
